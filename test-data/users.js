@@ -31,8 +31,8 @@ const generateUniqueUser = () => {
  * Trong môi trường thực tế nên lưu trong .env
  */
 const EXISTING_USER = {
-  name: 'test_113',
-  email: 'testexisting_1998@mailtest.com',
+  name: 'hoan-nguyen',
+  email: 'hoan98hanam@gmail.com',
   password: '123456Hh@',
 };
 
